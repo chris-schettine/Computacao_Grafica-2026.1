@@ -14,6 +14,12 @@ Renderizador 3D wireframe escrito inteiramente em Python, sem dependências de O
 
 ---
 
+
+
+https://github.com/user-attachments/assets/899cbc44-8f95-4a1e-8ed6-1afc085b9ade
+
+
+
 ## Estrutura de arquivos
 
 ```
