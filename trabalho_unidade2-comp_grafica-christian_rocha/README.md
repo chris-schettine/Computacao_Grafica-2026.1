@@ -56,7 +56,7 @@ python -m pip install numpy matplotlib
 
 ## Como executar
 
-Coloque a pasta `cg_trabalho2/` em qualquer diretório e execute:
+Execute:
 
 ```bash
 python main.py
