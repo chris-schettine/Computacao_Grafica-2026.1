@@ -1,7 +1,5 @@
 # Computação Gráfica 3D — Renderizador Interativo
 
-# Computação Gráfica — Curvas, Superfícies e Cores
-
 **Universidade Estadual do Sudoeste da Bahia — UESB**
 Curso: Ciência da Computação
 Disciplina: Computação Gráfica
