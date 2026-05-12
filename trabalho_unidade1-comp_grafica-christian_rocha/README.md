@@ -1,9 +1,14 @@
 # Computação Gráfica 3D — Renderizador Interativo
 
+# Computação Gráfica — Curvas, Superfícies e Cores
+
 **Universidade Estadual do Sudoeste da Bahia — UESB**
 Curso: Ciência da Computação
 Disciplina: Computação Gráfica
 Professor: Roque Mendes Prado Trindade
+
+**Aluno:** Caíque Santos Santana
+**Matrícula:** 202010643
 
 **Aluno:** Christian Schettine Paiva Rocha
 **Matrícula:** 202210159
