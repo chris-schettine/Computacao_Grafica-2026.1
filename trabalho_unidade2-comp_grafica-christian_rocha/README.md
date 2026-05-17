@@ -17,6 +17,10 @@ Sistema interativo de visualização geométrica 3D escrito inteiramente em Pyth
 
 ---
 
+
+https://github.com/user-attachments/assets/6e17c0bb-44f3-4b82-a90c-0e43a49f16d4
+
+
 ## Estrutura de arquivos
 
 ```
